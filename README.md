@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashik Aslam</h1>
 <h3 align="center">I am a passionate person in back-end development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashikaslam&label=Profile%20views&color=0e75b6&style=flat" alt="ashikaslam" /> </p>
-
 - 📫 How to reach me **md.ashik.aslam24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
